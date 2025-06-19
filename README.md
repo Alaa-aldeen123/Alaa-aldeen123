@@ -1,16 +1,33 @@
-## Hi there 👋
+# README
 
-<!--
-**Alaa-aldeen123/Alaa-aldeen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+I’m **Alaa Aldeen Abo-Arrijal**, an Artificial Intelligence Engineer and Data Analyst, dedicated to delivering data-driven solutions that empower organizations and individuals to make precise strategic decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications & Experience
+
+* 🎓 **Google Data Analytics Professional Certificate** (Coursera)
+* 🎓 **Artificial Intelligence Course Completion** (Hasoop Academy)
+* 📊 Experience in analytical and predictive projects, leveraging diverse datasets to drive business performance insights.
+
+## 💼 Services Offered
+
+* **Data Extraction (Web Scraping):** Selenium, BeautifulSoup
+* **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+* **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, Keras
+
+## 🛠 Technical Skills
+
+* **Programming Languages:** Python
+* **Web Scraping:** Data extraction from websites
+* **Data Analysis:** Data cleaning, exploration, and visualization
+* **Machine Learning:** Model training, evaluation, and optimization
+* **Deep Learning:** Neural network design and training
+
+## 🚀 Let's Work Together
+
+Do you have data you want to turn into actionable insights? Connect with me, and let’s embark on your journey to intelligent, informed decision-making.
+
+---
+
+*Thank you for visiting my GitHub profile!*
