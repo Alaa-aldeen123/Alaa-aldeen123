@@ -2,7 +2,7 @@
 
 Welcome!
 
-I’m **Alaa Aldeen Abo-Arrijal**, an Artificial Intelligence Engineer and Data Analyst, dedicated to delivering data-driven solutions that empower organizations and individuals to make precise strategic decisions.
+I’m **Alaa Aldeen Abo-Arrijal**, an Artificial Intelligence Developer, dedicated to delivering data-driven solutions that empower organizations and individuals to make precise strategic decisions.
 
 ## 🏆 Certifications & Experience
 
