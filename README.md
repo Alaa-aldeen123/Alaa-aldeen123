@@ -22,7 +22,7 @@ I’m **Alaa Aldeen Abo-Arrijal**, an Artificial Intelligence Developer, dedicat
 * **Web Scraping:** Data extraction from websites
 * **Data Analysis:** Data cleaning, exploration, and visualization
 * **Machine Learning:** Model training, evaluation, and optimization
-* **Deep Learning:** Neural network design and training
+* **Deep Learning:** Model training, evaluation
 
 ## 🚀 Let's Work Together
 
